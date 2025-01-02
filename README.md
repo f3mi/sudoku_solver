@@ -12,7 +12,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/f3mi/sudoku-solver.git
 cd sudoku-solver
 Ensure you have Python installed. You can check by running:
 
